@@ -317,7 +317,9 @@ img {
     font-size:1.75em;
     color:white;
 }
-
+.footer{
+    position: static;
+}
 @media (max-width: 768px){
     .footer,
     .footer-board{
